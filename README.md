@@ -1,17 +1,10 @@
-![GitHub Logo](/logo.png)
-
 # Twilio Video (WebRTC) for React Native
 
 Platforms:
 - iOS
 - Android
 
-People using a version < 1.0.1 please move to 1.0.1 since the project changed a lot internally to support the stable TwilioVideo version.
-
 ## Installation
-
-- react-native >= 0.40.0: install react-native-twilio-video-webrtc@1.0.1
-- react-native < 0.40.0: install react-native-twilio-video-webrtc@1.0.0
 
 ### Install Node Package
 
