@@ -18,13 +18,13 @@ People using a version < 1.0.1 please move to 1.0.1 since the project changed a 
 #### Option A: yarn
 
 ```shell
-yarn add https://github.com/blackuy/react-native-twilio-video-webrtc
+yarn add https://github.com/rotmanyan/react-native-twilio-video-webrtc
 ```
 
 #### Option B: npm
 
 ```shell
-npm install https://github.com/blackuy/react-native-twilio-video-webrtc --save
+npm install https://github.com/rotmanyan/react-native-twilio-video-webrtc --save
 ```
 
 ### iOS
@@ -94,7 +94,7 @@ TwilioVideo version 1.3.8 (latest) has the following know issues.
 As with iOS, make sure the package is installed:
 
 ```shell
-yarn add https://github.com/blackuy/react-native-twilio-video-webrtc
+yarn add https://github.com/rotmanyan/react-native-twilio-video-webrtc
 ```
 
 Then add the library to your `settings.gradle` file:
@@ -382,8 +382,3 @@ participant views now expect `participantSid` and `videoTrackSid` keys in the `t
 `identity` and `trackId`).
 
 * Make sure you're listening to participant events via `onParticipant{Added/Removed}VideoTrack` rather than `onParticipant{Enabled/Disabled}Track`.
-
-## Contact
-
-- Martín Fernández <fmartin91@gmail.com>
-- Gaston Morixe <gaston@gastonmorixe.com>
